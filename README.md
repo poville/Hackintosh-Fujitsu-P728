@@ -10,6 +10,7 @@ Hackintosh-Fujitsu-P728
 | MacOS          | OpenCore | Repo                                                                                     |
 | ---------------| -------- | ---------------------------------------------------------------------------------------- |
 | Sequoia 15.4   | 1.0.4    | <a href="https://github.com/poville/Hackintosh-Fujitsu-P728/tree/OC104Mac15.4">Here      |
+| Sequoia 15.5   | 1.0.4    | <a href="https://github.com/poville/Hackintosh-Fujitsu-P728/tree/OC104Mac15.5">Here      |
 
 </details>
 <details>
@@ -24,11 +25,11 @@ Hackintosh-Fujitsu-P728
 | Graphics  | Intel UHD 620            |
 | Display   | BOE06D9((12.5")1378x768) |
 | Network   | Intel L219-LM            |
-| WiFi      | Intel Wireless-AC9569    |
+| WiFi      | Intel Wireless-AC9569[^1]|
 | BlueTooth | Intel Wireless-AC9569    |
 | Audio     | Realtek ALC255           |
 
-
 - Refer to [P728-Platform_Specifications](https://jp.fujitsu.com/platform/pc/product/lifebook/1801/p728s/spec.html) for possible stock Fujitsu P728 configurations.
 
+[^1]:After Sequoia 15.5, I change WIFI&BlueTooth chipset into DW1560, so we can use AirDrop
 </details>
