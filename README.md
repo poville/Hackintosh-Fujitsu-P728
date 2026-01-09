@@ -2,9 +2,9 @@
 
 |  Hackintosh-Lenovo-P728  |        |
 |  ----                    | ------ |
-|  OpenCore                | 1.0.4  |
-|  MacOS                   | 15.5   |
+|  OpenCore                | 1.0.6  |
+|  MacOS                   | 26.2   |
 
 # Notice
-- Use <a href="https://github.com/dortania/OpenCore-Legacy-Patcher/releases">OCLP</a> to patch wifi 
-- Use refind to load OpenCore, so make Misc->Boot->ShowPicker set to "Disabled"
+- Use <a href="https://github.com/laobamac/OCLP-Mod/releases/tag/3.1.3">OCLP-Mode</a> to patch wifi and audio.
+- Use <a href="https://github.com/corpnewt/USBMap/tree/tahoe-test">USBMap</a> to build USB map(UTBMap.kext).
