@@ -10,6 +10,7 @@ Hackintosh-Fujitsu-P728
 | MacOS          | OpenCore | Repo                                                                                     |
 | ---------------| -------- | ---------------------------------------------------------------------------------------- |
 | Sequoia 15.4   | 1.0.4    | <a href="https://github.com/poville/Hackintosh-Fujitsu-P728/tree/OC104Mac15.4">Here      |
+| Tahoe 26.2   | 1.0.6    | <a href="https://github.com/poville/Hackintosh-Fujitsu-P728/tree/OC106Mac26.2">Here      |
 
 </details>
 <details>
